@@ -1,0 +1,8 @@
+int = whole number (4 bytes in modern systems)
+float = single precision decimal numbers (4 bytes)
+double = 8 bytes (double precision so double the float value)
+char = single character value (0-127 in ASCII/unicode) -> (1 byte)
+char[] = char-array, akin to string (size varies)
+bool = true or false, (1 byte requires <stdbool.h>)
+
+
