@@ -7,3 +7,8 @@ Course Link: https://www.youtube.com/watch?v=xND0t1pr3KY
 1. Sit Back
 2. Relax
 3. Enjoy the Show
+
+----------------------------------------------------------
+SyncMain for more programming content
+
+C makes you think bytes
